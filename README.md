@@ -20,4 +20,4 @@
 
 ## Table of Contents
 
-- [Learning Process](#learning-process)
+- [Learning Process](https://github.com/vishalsharma1777/life-skills/blob/main/learning-process.md)
