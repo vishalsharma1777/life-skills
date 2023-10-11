@@ -26,6 +26,5 @@ Q. According to the video, what are the steps to take when approaching a new top
 ### Question 5
 Q. What are some of the actions you can take going forward to improve your learning process?
 
-> It only takes 20 hours so why not do it.
-> I can use the Feynman technique to learn new concepts. I can also use the pinball method to learn a little bit of everything and then go back and learn more about the things I am interested in. I can also use the Pomodoro technique to focus on a task for 25 mins and then take a break for 5 mins.
-> Deconstructing the skill, learning enough to self-correct, removing barriers to learning, practicing at least 20 hours and overcoming frustration barriers are the steps to take when approaching a new topic.
+> 1. Research and select the most suitable learning materials within the given time frame, creating flashcards for key concepts.
+> 2. Dedicate at least 20 hours to grasp fundamentals, apply knowledge in a basic project, and prepare to effectively teach the topic to others by day's end.
