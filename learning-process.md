@@ -27,4 +27,4 @@ Q. According to the video, what are the steps to take when approaching a new top
 Q. What are some of the actions you can take going forward to improve your learning process?
 
 > 1. Research and select the most suitable learning materials within the given time frame, creating flashcards for key concepts.
-> 2. Dedicate at least 20 hours to grasp fundamentals, apply knowledge in a basic project, and prepare to effectively teach the topic to others by day's end.
+> 2. Dedicate at least 20 hours to grasp fundamentals, apply knowledge in a basic project, and prepare to effectively teach the topic to others by end of the day.
