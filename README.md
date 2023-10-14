@@ -21,3 +21,5 @@
 ## Table of Contents
 
 - [Learning Process](https://github.com/vishalsharma1777/life-skills/blob/main/learning-process.md)
+- [learning-process](https://github.com/vishalsharma1777/life-skills/blob/main/listening-and-assertive-communication.md)
+- [prevention-of-sexual-harassment](https://github.com/vishalsharma1777/life-skills/blob/main/prevention-of-sexual-harassment.md)
