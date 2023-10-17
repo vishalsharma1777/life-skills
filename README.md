@@ -10,7 +10,7 @@
       Contents
     </a>
     <span> | </span>
-    <a href="https://github.com/mountblue/life-skills-track/blob/main/learning-process.md" target="_blank">
+    <a href="https://github.com/mountblue/lxife-skills-track/blob/main/learning-process.md" target="_blank">
       Track
     </a>
   </h3>
@@ -23,3 +23,4 @@
 - [Learning Process](https://github.com/vishalsharma1777/life-skills/blob/main/learning-process.md)
 - [listening-and-assertive-communication](https://github.com/vishalsharma1777/life-skills/blob/main/listening-and-assertive-communication.md)
 - [prevention-of-sexual-harassment](https://github.com/vishalsharma1777/life-skills/blob/main/prevention-of-sexual-harassment.md)
+- [Technical Paper (How browser works)](https://github.com/vishalsharma1777/life-skills/blob/main/Technicalpaper.md)
