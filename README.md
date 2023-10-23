@@ -24,3 +24,5 @@
 - [listening-and-assertive-communication](https://github.com/vishalsharma1777/life-skills/blob/main/listening-and-assertive-communication.md)
 - [prevention-of-sexual-harassment](https://github.com/vishalsharma1777/life-skills/blob/main/prevention-of-sexual-harassment.md)
 - [Technical Paper (How browser works)](https://github.com/vishalsharma1777/life-skills/blob/main/Technicalpaper.md)
+- [Energy Management]()
+- [Focus Management]()
