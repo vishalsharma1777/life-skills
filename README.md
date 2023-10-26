@@ -20,9 +20,12 @@
 
 ## Table of Contents
 
-- [Learning Process](https://github.com/vishalsharma1777/life-skills/blob/main/learning-process.md)
-- [listening-and-assertive-communication](https://github.com/vishalsharma1777/life-skills/blob/main/listening-and-assertive-communication.md)
-- [prevention-of-sexual-harassment](https://github.com/vishalsharma1777/life-skills/blob/main/prevention-of-sexual-harassment.md)
-- [Technical Paper (How browser works)](https://github.com/vishalsharma1777/life-skills/blob/main/Technicalpaper.md)
-- [Energy Management](https://github.com/vishalsharma1777/life-skills/blob/main/energy-management.md)
-- [Focus Management](https://github.com/vishalsharma1777/life-skills/blob/main/focus-management.md)
+1. [Learning Process](https://github.com/vishalsharma1777/life-skills/blob/main/learning-process.md)
+2. [listening-and-assertive-communication](https://github.com/vishalsharma1777/life-skills/blob/main/listening-and-assertive-communication.md)
+3. [prevention-of-sexual-harassment](https://github.com/vishalsharma1777/life-skills/blob/main/prevention-of-sexual-harassment.md)
+4. [Technical Paper (How browser works)](https://github.com/vishalsharma1777/life-skills/blob/main/Technicalpaper.md)
+5. [Energy Management](https://github.com/vishalsharma1777/life-skills/blob/main/energy-management.md)
+6. [Focus Management](https://github.com/vishalsharma1777/life-skills/blob/main/focus-management.md)
+7. [Grit and Growth Mindset]()
+8. [Tiny Habbits]()
+9. [Good Practices]()
